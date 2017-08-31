@@ -25,6 +25,8 @@ en:
       irc_development: "IRC - Development"
       discussion_general: "Discussion & support"
       discussion_development: "Discussion - Development"
+      contributors: "Contributors"
+      donations: "Donations"
       choose_language: "Choose language"
       translate: "Add a translation"
       cc_license_alt: "Creative Commons License"
@@ -132,6 +134,28 @@ en:
       reshare_alt: Reshare
       mention_alt: Mention
       heart_alt: Heart
+    contributors:
+      menu_title: "Contributors"
+      headline: "Contributors"
+      byline: "Community heroes"
+      intro: "diaspora* is made, built, managed and promoted only by its community. Discover some of the volunteers who are contributing to the project. And you're welcome to %{join_us}!"
+      join_us: "join us"
+      contacting: "Please note that if you want a quick answer, you should not contact these persons directly. See %{how_we_communicate} to communicate with us."
+      how_we_communicate_link: "the official ways"
+      you: "You?"
+      you_join: "Come and %{join_us}!"
+      github_profile: "Github profile"
+      diaspora_profile: "diaspora* profile"
+    donations:
+      menu_title: "Donations"
+      headline: "Donate to diaspora*"
+      byline: "And help the network to grow!"
+      help_your_podmin: "Support the network by donating to your podmin"
+      podmins_details: "The pod administrators are the ones who make the diaspora* network alive. But each node has a cost. To help your podmin keep the server up and running, you can make a donation. If they activate this feature, there should be a \"Donate\" section in the left column of the main page (Stream). You can there choose the donation system you prefer between those made available by you podmin. The diaspora* software allows to set paypal, liberapay and bitcoin donations."
+      help_development: "Help diaspora* development"
+      development_details: "diaspora* is developed by volunteers, but you can still make donations to show your interest and encourage them to invest more time in diaspora* development."
+      bountysource_details: "We use %{bountysource} to handle donations to the project. This platform allows you to put money directly on tasks (github issues). When a developer writes the code filling the task (fixing the issue) and their work is accepted by the diaspora* core team, they then get the money attached to the issue on bountysource. That means you are now the ones driving the priorities of the diaspora* project! Of course, if you don't have a specific issue in mind, you can give money to the diaspora* team directly and we will attach it ourselves depending on our priorities."
+      bountysource_more_info: "For more info on Bountysource, see %{bountysource_blogpost}."
     get_involved:
       headline: "Get involved!"
       byline: "The future of the social web starts with you"
